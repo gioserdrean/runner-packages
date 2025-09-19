@@ -1,7 +1,7 @@
 name: Install
 
 on:
-  wworkflow_dispatch:
+  workflow_dispatch:
 jobs:
   install:
     runs-on: ubuntu-latest
